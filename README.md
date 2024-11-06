@@ -1,1 +1,1 @@
-# IVP_JNTU
+# IVP (Image & Video Processing)
